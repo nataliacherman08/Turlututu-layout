@@ -8,7 +8,7 @@ I recreated the layout of one of the two proposed sites.
 I chose to redo the layout of the Turlututu site.
 
 ## Link
-[Turlututu](Turlututu-layout/turlututuindex.html)
+[Turlututu](Turlututu-layout/turlututu)
 
 ### Hurray !
 
